@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [0.1.6] — 2019-12-27
+
 ## [0.1.5] — 2019-12-27
 
 ## [0.1.4] — 2019-12-27
@@ -32,4 +34,5 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 [0.1.3]: https://github.com/anekos/kunekune/compare/0.1.2...0.1.3
 [0.1.4]: https://github.com/anekos/kunekune/compare/0.1.3...0.1.4
 [0.1.5]: https://github.com/anekos/kunekune/compare/0.1.4...0.1.5
-[Unreleased]: https://github.com/anekos/kunekune/compare/0.1.5...HEAD
+[0.1.6]: https://github.com/anekos/kunekune/compare/0.1.5...0.1.6
+[Unreleased]: https://github.com/anekos/kunekune/compare/0.1.6...HEAD
