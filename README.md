@@ -6,7 +6,7 @@
 A Clojure library designed to ... well, that part is up to you.
 
 ```clj
-[net.snca/kunekune "0.1.1"]
+[net.snca/kunekune "0.1.2"]
 ```
 
 ## Usage
