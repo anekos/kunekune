@@ -1,4 +1,4 @@
-(defproject net.snca/kunekune "0.0.0"
+(defproject net.snca/kunekune "0.1.0"
   :description "Flexible threading macro"
   :url "https://github.com/anekos/kunekune"
   :license {:name "Eclipse Public License"
